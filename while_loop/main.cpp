@@ -7,8 +7,6 @@ int main()
 	// initialization expression
 	int i = 1;
 	double sum = 0;
-
-
 	// test expression
 	while (i < 6) {
 		cout << "Hello World\n";
