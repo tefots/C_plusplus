@@ -11,6 +11,7 @@ main()
 
 		// Program comes out of loop when
 		// i becomes multiple of 3.
+
 		if ((i % 3) == 0)
 			break;
 		else
@@ -18,7 +19,7 @@ main()
 	}
 
 	cout << "\nThe loop with continue produces output as: \n";
-	for (i = 1; i <= 5; i++) {
+	for (i = 1; i <= 5; i++){
 
 		// The loop prints all values except
 		// those that are multiple of 3.
